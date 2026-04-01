@@ -34,7 +34,7 @@ LEVANTAMENTO DE REQUISITOS:  E-COMERCE MERCADO LIVRE
 
 ## Narrativa do caso de uso
 
-# Primeira Narrativa:
+#Primeira Narrativa:
 Fluxo Principal: Comprar
 •	Cliente acessa o item;
 •	Seleciona o modelo e a quantidade;
