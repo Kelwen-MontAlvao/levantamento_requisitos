@@ -109,5 +109,7 @@ Fluxo Alternativo: Item Indisponível
 •	Um bug faz com que o produto desapareça do carrinho após o usuário fechar a página;
 •	Usuário é forçado a comprar diretamente sem conseguir acumular itens para comprar junto.
 
+#Diagrama de Caso de Uso
+<img width="1536" height="1024" alt="diagrama de uso" src="https://github.com/user-attachments/assets/6fa373cf-5437-4fd9-9623-97bcef4380b1" />
 
 
