@@ -34,7 +34,7 @@ LEVANTAMENTO DE REQUISITOS:  E-COMERCE MERCADO LIVRE
 
 ## Narrativa do caso de uso
 
-#Primeira Narrativa:
+Primeira Narrativa:
 Fluxo Principal: Comprar
 •	Cliente acessa o item;
 •	Seleciona o modelo e a quantidade;
@@ -58,7 +58,7 @@ Fluxo de Exceção: Item Indisponível
  • Cliente escolhe substituto ou remove
  • Sistema atualiza pedido
 ====================================================
-#Segunda Narrativa:
+Segunda Narrativa:
 Fluxo Principal: Postar Produto
 •	Cliente realiza o pedido;
 •	O administrador recebe o pedido;
@@ -95,7 +95,7 @@ Fluxo de Exceção: Envio incorreto
 •	PROBABILIDADE 1:Prejuízo financeiro, pois o cliente agiu de forma desonesta;
 •	PROBABILIDADE 2:  Fluxo alternativo de devolução.
 ==============================================
-#Terceira Narrativa:
+Terceira Narrativa:
 Fluxo Principal: Adicionar ao carrinho
 •	Cliente acessa o item;
 •	Seleciona o modelo e a quantidade;
